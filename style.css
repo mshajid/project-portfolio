@@ -141,3 +141,81 @@ nav {
     transition: all .2s ease-in;
     color: white;
 }
+
+.about-title {
+    font-size: 22px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+
+.about-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(158, 71, 132,.8);
+    
+}
+
+.about-details {
+    margin-bottom: 10px;
+    display: flex;
+    gap: 5px;
+
+}
+
+.details-bold {
+    font-weight: bold;
+    color: white;
+}
+
+.sub-details {
+    font-weight: 400;
+}
+
+.about-cta {
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.work-section {
+    background-color: var(--primary);
+    padding: 100px;
+}
+
+.work-section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.work-section > h4 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.work-section-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+
+.work-section-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 1px solid var(--primary-button); */
+    max-width: 500px;
+    padding: 40px;
+    gap: 10px;
+    background-color: #1e1846;
+    color: white;
+}
+
+.card-cta {
+    color: var(--primary-hover);
+}
