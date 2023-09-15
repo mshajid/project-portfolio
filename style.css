@@ -385,7 +385,10 @@ footer a {
     }
 
     .hero-section {
-        flex-direction: column;        
+        flex-direction: column;
+        justify-content: unset;
+        padding-top: 50px;
+        height: unset;
     }
 
     .main-title h2 {
