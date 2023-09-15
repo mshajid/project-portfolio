@@ -118,6 +118,8 @@ nav {
     gap: 15px;
 }
 
+
+
 .hero-btns {
     display: flex;
     align-items: center;
@@ -201,6 +203,8 @@ nav {
     flex-direction: row;
     justify-content: center;
     gap: 10px;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .work-section-box {
@@ -214,6 +218,10 @@ nav {
     gap: 10px;
     background-color: #1e1846;
     color: white;
+}
+
+.work-section-icons  .fa-react {
+    font-size: 30px;
 }
 
 .card-cta {
