@@ -89,6 +89,7 @@ nav {
     display: flex;
     flex-direction: column;
     gap: 17px;
+    margin-bottom: 60px;
 }
 
 .main-title h2 {
@@ -97,6 +98,7 @@ nav {
 
 .main-title h2 span {
     color: var(--primary-hover);
+    font-family: var(--logo-font);
 }
 
 .sub-title {
@@ -111,6 +113,8 @@ nav {
 .desc span {
     font-weight: 200;
     line-height: 1.4;
+    display: block;
+    margin-top: -30px;
 }
 
 .social-icons {
@@ -226,6 +230,9 @@ nav {
 
 .card-cta {
     color: var(--primary-hover);
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .contact-section {
