@@ -374,3 +374,69 @@ footer a {
     text-align: center;
     padding: 15px;
 }
+
+/* *  Media Queries Starts Here * */
+
+@media only screen and (max-width: 600px) {
+    nav {
+        flex-direction: column;
+        gap: 20px;
+        padding: 10px;
+    }
+
+    .hero-section {
+        flex-direction: column;        
+    }
+
+    .main-title h2 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .desc > span {
+        font-size: 15px;
+        max-width: 300px;
+        text-align: center;
+    }
+
+    .social-icons {
+        justify-content: center;
+    }
+
+    .hero-btns {
+        justify-content: center;
+    }
+
+    .emoji {
+        display: none;
+    }
+
+    .about-section {
+        flex-direction: column;
+    }
+
+    .about-left img{
+        margin-top: 30px;
+    }
+
+    .about-title h3 {
+        text-align: center;
+        margin-top: -40px;
+    }
+
+    .about-cta {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+    }
+
+    .work-section-container {
+        flex-direction: column;
+    }
+
+    .contact-section form input, textarea {
+        width: 300px;
+        overflow: hidden;
+    }
+}
