@@ -1,7 +1,14 @@
 # Shajid Shafee Portfolio
-You can find my Portfolio with 3 color variants. You can view it here with the detailed instruction below for your convenience. 
+You can find my Portfolio with 3 color variants with mobile responsive (_<600px max-width screen sizes_). You can view it here with the detailed instruction below for your convenience. 
 
-Live Link URL : https://mshajid.github.io/project-portfolio/
+|  |  |
+|--|--|
+| **License** |MIT  |
+| **Stacks** |HTML & CSS  |
+| **Author** |M. Shajid Shafee  |
+| **Live Link** | https://mshajid.github.io/project-portfolio/ |
+| **Color Pallets** | https://colorhunt.co/ |
+
 
 ### Screenshots
 All color variants are below. Color pallets are generated with the [Color Hunt](https://www.colorhunt.co). 
