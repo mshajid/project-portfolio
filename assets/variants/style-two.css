@@ -323,6 +323,7 @@ nav {
     gap: 10px;
     background-color: rgb(71, 45, 45);
     color: white;
+    border-radius: 10px;
 }
 
 .work-section-icons .fa-react,
