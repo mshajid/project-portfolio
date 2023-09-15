@@ -254,3 +254,18 @@ nav {
 .contact-btn {
     margin-top: 20px;
 }
+
+footer {
+    background-color: var(--primary);
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.footer-links {
+    text-align: center;
+    padding: 15px;
+}
