@@ -313,7 +313,9 @@ nav {
     color: white;
 }
 
-.work-section-icons  .fa-react {
+.work-section-icons .fa-react,
+.fa-code, 
+.fa-comments-dollar {
     font-size: 30px;
 }
 
@@ -327,7 +329,6 @@ nav {
 .contact-section {
     padding: 40px;
     background-color: #1e1846;
-
 }
 
 .contact-section > h4 {
