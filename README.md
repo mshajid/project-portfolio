@@ -33,12 +33,17 @@ All color variants are below. Color pallets are generated with the [Color Hunt](
 ---
 ### Instructions
 
-Before you dive into the code, better to have the VS code extension called "Better Comments" by **Aaron Bond**. Follow these instructions to see the color variants properly.
+![This is the Portfolio - Color Variant 1](assts/../assets/screenshots/Instructions.gif)
 
-- First fork the repository. 
-- Simply navigate to the index.html and keep the stylesheet which color variant you would like to have, and rest of them uncomment to avoid the conflict.
-- Optional: Keep the "Better Comment" VS code extension to see the comment clearly with the highlight. 
+- Navigate to the Project Portfolio live url. 
+- Scroll to the bottom (Footer)
+- You will see buttons that indicates different colors. 
+- Click on the each other and see the difference. 
 
-![Check the instruction](assets/screenshots/instructions.png)
+Feel free to Fork this repo and add features if it's necessary to the project. 
+Don't forget to give a Star
+
+Thanks for Your Time! 
+Shajid
 
 ---
