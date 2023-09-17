@@ -392,6 +392,40 @@ footer a {
     color: var(--primary-hover);
 }
 
+
+.dynamic-btn-cntr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 30px;
+}
+
+.dynamic-btn {
+    padding: 5px 15px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn1 {
+    background-color: #1e1846;
+    color: white;
+    font-family: var(--primary-font);
+}
+
+.btn2 {
+    background-color: #472d2d;
+    color: white;
+    font-family: var(--primary-font);
+}
+
+.btn3 {
+    background-color: #e84e31;
+    color: white;
+    font-family: var(--primary-font);
+}
+
 /* *  Media Queries Starts Here * */
 
 @media only screen and (max-width: 600px) {
