@@ -35,7 +35,8 @@ nav {
     background-color: var(--primary / 80%);
     backdrop-filter: blur(20px);
     color: #fff;
-    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     position: fixed;
     top: 0;
     right: 0;
