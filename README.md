@@ -41,7 +41,7 @@ All color variants are below. Color pallets are generated with the [Color Hunt](
 - Click on the each other and see the difference. 
 
 Feel free to Fork this repo and add features if it's necessary to the project. 
-Don't forget to give a Star
+Don't forget to give a Star.
 
 Thanks for Your Time! 
 Shajid
