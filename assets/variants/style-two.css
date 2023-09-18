@@ -294,6 +294,8 @@ nav {
 .work-section {
     background-color: var(--primary);
     padding: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .work-section-container {
